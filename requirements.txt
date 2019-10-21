@@ -33,5 +33,5 @@ sklearn==0.0
 subprocess32==3.2.7
 tensorflow==1.1.0
 urllib3==1.21.1
-Werkzeug==0.12.1
+Werkzeug==0.15.3
 wfdb==1.2.0
