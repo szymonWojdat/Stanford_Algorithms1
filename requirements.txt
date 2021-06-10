@@ -2,7 +2,7 @@ certifi==2017.4.17
 chardet==3.0.4
 cycler==0.10.0
 decorator==4.0.11
-Django==1.11.1
+Django==2.2.24
 funcsigs==1.0.2
 functools32==3.2.3.post2
 gunicorn==19.7.1
